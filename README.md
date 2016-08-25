@@ -17,7 +17,7 @@ guide for sqlite3-ruby installation on Windows without LoadError
 - `gem install bundler`
 - `bundle install`
 - `rake native gem`
-- you'll find a dir named 'pkg' was generated
+- you'll find a dir named 'pkg' generated
 
 ##### Install
 - enter dir 'pkg'
