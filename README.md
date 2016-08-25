@@ -5,22 +5,22 @@ guide for sqlite3-ruby installation on Windows without LoadError
 ##### Pre
 - `gem uninstall sqlite3 --all`
 
-##### First
+##### Source
 - Download the latest sqlite3-ruby, https://github.com/sparklemotion/sqlite3-ruby
 - unzip the package
 
-##### Second
+##### Build
 - run command-line in the extracted dir
 - make sure you have your C compiler installed and added to PATH
 - `gem install bundler`
 - `bundle install`
 - `rake native gem`
-- after it is done, you'll find a dir named pkg was generated
+- you'll find a dir named 'pkg' was generated
 
-##### Third
-- go into this directory
+##### Install
+- enter dir 'pkg'
 - `gem install --local sqlite3-xxx.gem` ('xxx' is version code)
 
-##### Fourth
+##### Check
 - `irb`
 - `require 'sqlite3'`
