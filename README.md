@@ -2,6 +2,9 @@
 How to install sqlite3 gem on Windows without LOAD_ERROR
 
 ### Steps
+##### Pre
+- `gem uninstall sqlite3 --all`
+
 ##### First
 - Download the latest sqlite3-ruby, https://github.com/sparklemotion/sqlite3-ruby
 - unzip the package
