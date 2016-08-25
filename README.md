@@ -18,7 +18,7 @@ How to install sqlite3 gem on Windows without LOAD_ERROR
 - after it is done, you'll find a dir named pkg was generated
 
 ##### Third
-- go in to this directory
+- go into this directory
 - `gem install --local sqlite3-xxx.gem` ('xxx' is version code)
 
 ##### Fourth
