@@ -1,5 +1,7 @@
 # sqlite3-ruby-win
 guide for sqlite3-ruby installation on Windows without LoadError
+  
+![image](https://github.com/hwding/sqlite3-ruby-win/blob/master/check.PNG)
 
 ### Steps
 ##### Pre
