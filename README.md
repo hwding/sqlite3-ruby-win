@@ -1,5 +1,5 @@
 # sqlite3-ruby-win
-How to install sqlite3 gem on Windows without LOAD_ERROR
+guide for sqlite3-ruby installation on Windows without LoadError
 
 ### Steps
 ##### Pre
