@@ -1,7 +1,13 @@
 # sqlite3-ruby-win
 guide for sqlite3-ruby installation on Windows without LoadError
   
-![image](https://github.com/hwding/sqlite3-ruby-win/blob/master/check.PNG)
+```
+C:\>ruby -v
+ruby 2.3.1p112 (2016-04-26 revision 54768) [x64-mingw32]
+C:\>irb
+irb(main):001:0> require 'sqlite3'
+=> true
+```
 
 ### Steps
 ##### Pre
