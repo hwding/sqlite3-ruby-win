@@ -1,5 +1,5 @@
 # sqlite3-ruby-win
-guide for sqlite3-ruby installation on Windows without LoadError
+Guide for sqlite3-ruby installation on Windows without 'LoadError'.
   
 ```
 C:\>ruby -v
